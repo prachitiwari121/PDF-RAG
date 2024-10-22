@@ -1,4 +1,4 @@
-# PDF (RAG)
+# PDF (Retrieval-Augmented Generation)
 
 This repository contains two main components:
 
