@@ -18,3 +18,4 @@ Before running the application, ensure that the following Python dependencies ar
 
 ```bash
 pip install -r requirements.txt
+streamlit run pdfrag.py    
