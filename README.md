@@ -1,4 +1,4 @@
-# Sarvam Project
+# PDF (RAG)
 
 This repository contains the Sarvam Project, which includes two main components:
 
