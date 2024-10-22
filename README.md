@@ -19,3 +19,5 @@ Before running the application, ensure that the following Python dependencies ar
 ```bash
 pip install -r requirements.txt
 streamlit run pdfrag.py    
+```
+![image](https://github.com/user-attachments/assets/5501ebce-66f2-4847-b43a-09c9106fb1b8)
